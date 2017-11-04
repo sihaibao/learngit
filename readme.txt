@@ -1,12 +1,10 @@
-Git is a distributed version control system-----------.
-Git is free software distributed under the GPL----------------.
+dev3
+  dev3
 
+   dev3
 
-Git tracks changes of files.
-
-
-Creating a new branch is quick.
-Creating a new branch is quick and simple.
+    dev3
+     dev3
  
 
  file3.txt
