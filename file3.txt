@@ -2,12 +2,3 @@ file3.txt
 
 
 file3.txt
-
-
-
-file3.txt
-file3.txt
-dev
-
-dev
-dev
