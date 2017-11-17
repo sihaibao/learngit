@@ -1,11 +1,19 @@
 <?php 
 
-  echo  "sourceTree";
+  
+  echo  "1";
 
-  echo  "sourceTree";
+  echo  "2";
 
-  echo  "sourceTree";
-  echo  "sourceTree";
-  echo  "sourceTree";
+  echo  "3";
+
+
+  echo  "4";
+
+  echo  "5";
+
+   define('APP_NAME','APP');
+   define('APP_PATH','./APP/');
+  
 
  ?>
