@@ -1,0 +1,57 @@
+目录
+
+    SourceTree简介
+    SourceTree基本使用
+    SourceTree&Git部分名词解释
+    相关连接推荐
+
+一、SourceTree简介
+
+  SourceTree 是 Windows 和Mac OS X 下免费的 Git 和 Hg 客户端，拥有可视化界面，容易上手操作。同时它也是Mercurial和Subversion版本控制系统工具。支持创建、提交、clone、push、pull 和merge等操作。
+二、SourceTree基本使用
+
+（以下以SourceTree For Mac V2.0.5.2中文版为例，托管平台以Github为例）
+
+    基本安装
+    1.1. 不建议在appstore直接搜索下载SourceTree，因为appstore里的版本已经十分老旧（好像是2012年更新的）。建议前往官网下载安装最新版，我这里也提供一个SourceTree for Mac V2.0.5.2的百度云的方便链接。 传送门→SourceTreeDownload
+    1.2. 拖动安装，Launchpad中打开，continue，输入github账号按下一步完成即可。没有Github账号的朋友，也可以跳过本步骤完成安装
+
+    注册GitHub（已有Github账号的朋友请跳过本步骤）
+    2.1. 打开Github官网 传送门→Github
+    2.2. 填写必要的信息，点击sigh up for github
+
+    Github Register 1
+
+
+    2.3. 默认选中免费账号，点击绿色的Finish sign up即可
+
+    Github Register 2
+
+    实践入门-创建仓库 clone&pull
+    3.1. 创建仓库
+    用我们刚才创建的账号登陆github，在欢迎页点击“+ New repository“创建我们的仓库
+
+    Create Repository 1
+
+
+    或点击右上角的“+”，然后再New repository亦可
+
+    Create Repository 2
+
+
+    3.2. 按照个人需要填写仓库名、仓库描述等，建议勾选“Initialize this repository with a README”（注意此处免费账户只能选择建立public（开源）仓库），填写完成后点击Create repository
+
+    Create Repository 3
+
+
+    3.3. 至此，我们的仓库已经创建成功。创建成功后，我们在页面的右下角找到链接，点击复制
+
+    Copy Link
+
+
+    3.4. 打开我们的SourceTree，点击：“+新仓库”，选择：“从URL克隆”
+
+作者：SeaHub
+链接：http://www.jianshu.com/p/be9f0484af9d
+來源：简书
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
